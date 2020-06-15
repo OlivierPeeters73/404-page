@@ -1,0 +1,20 @@
+body
+{
+    background-image: url("images/hell.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header
+{
+    color: red;
+    font-weight: bold;
+    font-size: 75px;
+    
+}
+input[type="submit"]
+{
+    font-weight: bold;
+    font-size: 35px;
+    border: 2px solid;
+    border-radius: 50px;
+}
