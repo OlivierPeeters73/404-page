@@ -4,13 +4,34 @@ body
     background-size: cover;
     background-repeat: no-repeat;
 }
-header
+
+#PNF
 {
+    height: 150px;
+    padding: 30px;
     color: red;
     font-weight: bold;
     font-size: 75px;
     
 }
+
+#err404
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+    font-size: 300px;
+    color: white;
+}
+
+#back
+{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
 input[type="submit"]
 {
     font-weight: bold;
